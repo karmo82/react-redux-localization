@@ -1,0 +1,25 @@
+{
+    "GLOBAL":{
+        "Welcome": "welcome",
+        "Name":"Name",
+        "Description":"Description",
+        "Price":"Price",
+        "AppName":"React Sample App"
+    },
+    "ShopsIndex":{
+        "PageTitle":"Shops"
+    },
+    "ShopEdit":{
+        "PageTitle":"Save shop"
+    },
+    "Login":{
+        "PageTitle":"Login",
+        "Username":"Username",
+        "Password":"Password",
+        "UserLoggedIn":"User logged in",
+        "Submit":"Submit"
+    },
+    "GameNine":{
+        "PageTitle":"Game nine"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "GLOBAL":{
+        "Welcome": "benvenuto",
+        "Name":"Nome",
+        "Description":"Descrizione",
+        "Price":"Prezzo",
+        "AppName":"React Sample App ITA"
+    },
+    "ShopsIndex":{
+        "PageTitle":"Negozi"
+    },
+    "ShopEdit":{
+        "PageTitle":"Salva Negozio"
+    },
+    "Login":{
+        "PageTitle":"Login Ita",
+        "Username":"Username",
+        "Password":"Password",
+        "UserLoggedIn":"Utente loggato",
+        "Submit":"Ok"
+    },
+    "GameNine":{
+        "PageTitle":"Gioco dei nove"
+    }
+}
